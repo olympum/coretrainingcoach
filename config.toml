@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://olympum.github.io/coretrainingcoach"
+baseurl = "http://www.coretrainingcoach.co.uk"
 languageCode = "en-us"
 title = "Hugo Artists Theme"
 theme = "hugo-artists-theme"
